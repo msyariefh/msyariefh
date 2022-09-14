@@ -7,7 +7,7 @@
 
 Hi, there! :wave: Welcome to my GitHub Page!
 
-I am Hid, a student who loves to learn something new. My current interest is in Game Industry, but I never forget those days when I overjoyed making some web-based applications :smile:
+I am Hid, a student who loves to learn something new. My current interest is in Game Industry, but I won't forget those days when I overjoyed making some web-based applications :smile:
 
 ### Game Portfolio
 #### 3 in 1 Game Programmer Training Camp (BDI Denpasar x Agate Academy) 
