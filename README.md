@@ -1,5 +1,6 @@
-[![msyariefh's GitHub stats](https://github-readme-stats.vercel.app/api?username=msyariefh&hide=stars&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/msyariefh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyariefh&layout=compact&theme=tokyonight)](https://github.com/msyariefh)
+| [![msyariefh's GitHub stats](https://github-readme-stats.vercel.app/api?username=msyariefh&hide=stars&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/msyariefh) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyariefh&layout=compact&theme=tokyonight)](https://github.com/msyariefh) |
+| - | - |
+|   |   |
 
 ### M. Syarief Hidayatulloh (HiDE) 
 ![Game Programmer](https://img.shields.io/badge/Game%20Programmer-brightgreen) ![Web Developer](https://img.shields.io/badge/Web%20Developer-green) ![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-yellowgreen)
