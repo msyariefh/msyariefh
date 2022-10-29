@@ -7,7 +7,7 @@
 
 Hi, there! :wave: Welcome to my GitHub Page!
 
-I am Hid, a student who loves to learn something new. My current interest is in Game Industry, but I won't forget those days when I overjoyed making some web-based applications :smile:
+I am Hid, a junior student who loves to learn something new. My current interest is in Game Industry, but I won't forget those days when I overjoyed making some web-based applications :smile:
 
 ### Game Portfolio
 #### 3 in 1 Game Programmer Training Camp (BDI Denpasar x Agate Academy) 
@@ -17,7 +17,7 @@ I am Hid, a student who loves to learn something new. My current interest is in 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msyariefh&repo=Space-Shoot-Shoot&show_owner=false)](https://github.com/msyariefh/Space-Shoot-Shoot) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msyariefh&repo=forest-view&show_owner=false)](https://github.com/msyariefh/forest-view) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msyariefh&repo=kelompok3-tugas5&show_owner=false)](https://github.com/msyariefh/kelompok3-tugas5) |  |
 
-#### PeekMee Studio
+#### PeekMee Studio | [itch.io](https://peek-mee.itch.io/)
 |   |   |
 | - | - |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msyariefh&repo=Tank-you&show_owner=false)](https://github.com/msyariefh/Tank-you) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msyariefh&repo=GMTK-Game-Jam-2022-PeekMee&show_owner=false)](https://github.com/msyariefh/GMTK-Game-Jam-2022-PeekMee) |
